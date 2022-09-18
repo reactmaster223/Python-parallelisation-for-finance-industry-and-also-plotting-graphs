@@ -1,0 +1,13 @@
+Python parallelisation for finance industry and also plotting graphs
+
+The purpose of this exercise is to build an application, Economic Scenario Expansion Simulator (ESES), that simulates future paths of the volatility index under specific economic scenarios in parallel fashion.
+
+All the files are provided. Just need to implement parallel processing.
+just complete the ESESFrameworkParallel.py file Parallel class and its methods.
+
+Which kind of graph we  want to geterate on what basis ?
+
+compare multithreading versus multiprocessing with different workload in each core/worker
+
+https://www.freelancer.com/users/l.php?url=https:%2F%2Ftowardsdatascience.com%2Funderstanding-python-multithreading-and-multiprocessing-via-simulation-3f600dbbfe31&sig=15b599b7ace02523e568cdc64d9e99e10737c0ec1e0b2a190603cdf71054cf3a
+You can get idea from this link.
